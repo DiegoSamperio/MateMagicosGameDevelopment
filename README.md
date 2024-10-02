@@ -1,4 +1,4 @@
-# Mate Magicos - Level 1 Development
+# Mate Mágicos - Level 1 Development
 
 ## Project Overview:
 "Mate Mágicos" is an educational game designed for 5th-grade students to enhance their understanding of geometric shapes. The game consists of three levels, with **Level 1** focusing on introducing basic geometric surfaces. This repository includes all the relevant code and functionality for the first level of the game.
@@ -14,6 +14,9 @@
 - **Flask**: Backend for login and leaderboard management.
 - **React**: Frontend framework for the web application interface.
 
+## Installation Instructions:
+For detailed installation instructions, please refer to the **manual.pdf** included in this repository. It contains all the necessary steps to set up and run the project.
+
 ## Team Members:
 - Sebastián Elorduy Martínez Manzanero
 - Jorge Rodrigo Colín Rubio
@@ -22,4 +25,4 @@
 
 ## Last Modification:
 This repository was last updated in **April 2024**, reflecting all the changes up to the first level, including the core gameplay mechanics and database integration.
-****
+
